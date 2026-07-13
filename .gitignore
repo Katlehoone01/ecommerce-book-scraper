@@ -1,0 +1,4 @@
+venv/
+books.csv
+pipeline.log
+scraped_marketplace.db
